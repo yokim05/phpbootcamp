@@ -1,8 +1,8 @@
-<?php include_once "template/index.php" ?>
+<?php include_once 'template/index.php'; ?>
 
-<div class="header ">
+<div class="header">
     <nav class="navbar navbar-expand-sm navbar-light">
-        <a class="navbar-brand text-white" href="#">Yokim</a>
+        <a class="navbar-brand text-white" href="./index.php">Yokim</a>
         <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse" data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

@@ -1,4 +1,5 @@
-<?php include_once "template/index.php" ?>
+<?php include_once 'template/index.php'; ?>
+
 
 <!-- Footer -->
 <footer class="page-footer font-small footer pt-4 fixed-bottom">

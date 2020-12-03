@@ -1,4 +1,4 @@
-<?php include_once "init/template/header.php" ?>
+<?php include 'init/template/header.php'; ?>
 
 
 <div class="container">
@@ -17,4 +17,4 @@
 
 
 
-<?php include_once "init/template/footer.php" ?>
+<?php include 'init/template/footer.php'; ?>
