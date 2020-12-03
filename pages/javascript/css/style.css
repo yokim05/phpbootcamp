@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.header{
+    background-color: #222831;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.footer{
+    background-color: #222831;
+    text-align: center;
+}
+
+.header-bottom{
+    background-color: #393e46;
+}
+

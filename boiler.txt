@@ -1,0 +1,8 @@
+<?php include_once "init/template/header.php" ?>
+
+
+
+
+
+
+<?php include_once "init/template/footer.php" ?>
